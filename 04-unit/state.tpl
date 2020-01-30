@@ -1,0 +1,6 @@
+bucket="${bucket_name}"
+region="${region_name}"
+dynamodb_table="${dynamodb_table_name}"
+encrypt="true"
+workspace_key_prefix="workspace"
+session_name="TerraformStateAccess"
